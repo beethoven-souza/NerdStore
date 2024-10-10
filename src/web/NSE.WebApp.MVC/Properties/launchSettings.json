@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "NSE.WebApp.MVC": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:59015;http://localhost:59017"
+    }
+  }
+}
